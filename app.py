@@ -25,7 +25,7 @@ def chat():
         headers = {
             "Authorization": f"Bearer {OPENROUTER_API_KEY}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://github.com/sandhya-9740/AI-2",
+            "HTTP-Referer": "https://github.com/monishaguhan0528-cmd/ai-chatbot",
             "X-Title": "AI Chatbot"
         }
 
